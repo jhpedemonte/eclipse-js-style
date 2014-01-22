@@ -6,4 +6,4 @@ Open **Eclipse Preferences** and go to **JavaScript > Code Style**.  Then, for e
 Source
 ------
 
-The rules in these files are based primarily on the [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) v2.28 and the [formatting rules from the Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml#Formatting) v3.199.
+The rules in these files are based primarily on the [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) v2.93 and the [formatting rules from the Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml#Formatting) v3.274.
